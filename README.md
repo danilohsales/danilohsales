@@ -8,8 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danilohenrique130842@gmail.com)
 
-![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilohsales&show_icons=true&theme=transparent&hide_border=true&border_radius=4.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilohsales&layout=compact&theme=transparent&hide_border=true&border_radius=4.5)
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilohsales&show_icons=true&theme=radical&hide_border=true&border_radius=4.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilohsales&layout=compact&theme=radical&hide_border=true&border_radius=4.5)
 
 
 ### Main Languages:
